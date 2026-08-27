@@ -32,6 +32,7 @@ Me chamo Lara Caneschi, tenho 17 anos e sou natural de Minas Gerais. Sou estudan
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<br>
 
 ---
 
