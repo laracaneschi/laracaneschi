@@ -1,6 +1,6 @@
 Lara Caneschi 
 
-Me chamo Lara Caneschi, tenho 17 anos e sou natural de Minas Gerais. Sou estudante de tecnologia e programação, apaixonada por desenvolvimento de software, inteligência artificial e criação de projetos. Comecei minha jornada na programação estudando lógica e algoritmos e, desde então, venho construindo minha base em desenvolvimento web e explorando diferentes tecnologias. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu perfil no TikTOk "[L. Caneschi](tiktok.com/@eucaneschii)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Lara Caneschi](https://www.instagram.com/devcaneschi?igsi=MWd0bjJoYTFlYnZubQ==)", e Linkedin chamado "[Lara Caneschi](https://www.linkedin.com/in/lara-caneschi-19a1a8377?utm_source=share_via&utm_content=profile&utm_medium=member_android)".
+Me chamo Lara Caneschi, tenho 17 anos e sou natural de Minas Gerais. Sou estudante de tecnologia e programação, apaixonada por desenvolvimento de software, inteligência artificial e criação de projetos. Comecei minha jornada na programação estudando lógica e algoritmos e, desde então, venho construindo minha base em desenvolvimento web e explorando diferentes tecnologias. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu perfil no TikTok "[L. Caneschi](tiktok.com/@eucaneschii)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Lara Caneschi](https://www.instagram.com/devcaneschi?igsi=MWd0bjJoYTFlYnZubQ==)", e Linkedin chamado "[Lara Caneschi](https://www.linkedin.com/in/lara-caneschi-19a1a8377?utm_source=share_via&utm_content=profile&utm_medium=member_android)".
 
 ---
 
@@ -31,7 +31,8 @@ Me chamo Lara Caneschi, tenho 17 anos e sou natural de Minas Gerais. Sou estudan
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-### 📊 Estatísticas
+
+📊 Estatísticas
 
 <p>
   <img 
