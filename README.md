@@ -1,4 +1,4 @@
-👩🏻‍💻 Lara Caneschi 
+### 👩🏻‍💻 Lara Caneschi 
 
 Future Software Engineering • Web Development • Cybersecurity  
 
