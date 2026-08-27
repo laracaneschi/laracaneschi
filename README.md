@@ -33,3 +33,16 @@ Me chamo Lara Caneschi, tenho 17 anos e sou natural de Minas Gerais. Sou estudan
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
     
+🟣 Tecnologias que já fazem parte da minha base 
+| 🟧 HTML5 | █████████░ 90% |
+| 🟦 CSS3 | █████████░ 90% | 
+| 🟪 Git & GitHub | ███████░░░ 75% | 
+| 🎨 Figma | ██████░░░░ 65% | 
+| 🖥️ UI/UX | █████░░░░░ 55% | 
+
+🟡 Atualmente estudando 
+| 🟨 JavaScript | █████░░░░░ 55% | 
+| ☕ Python | Em evolução | 
+| ⚛️ React | Em aprendizado | 
+| 🔵 C | Em aprendizado | 
+OBS: 📈 Meu nível não é estático.
